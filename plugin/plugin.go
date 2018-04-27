@@ -1,6 +1,6 @@
 package main
 
-import . "github.com/dotslashlu/nightswatch_poc/plugin_interface"
+import . "github.com/dotSlashLu/nightswatch_poc/plugin/interface"
 import "fmt"
 
 func TestCB(report func(string)) {
